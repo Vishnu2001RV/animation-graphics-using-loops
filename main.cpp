@@ -52,7 +52,7 @@ void intro2()
     if(i==99)
     {  settextstyle(GOTHIC_FONT,HORIZ_DIR,4);
     outtextxy(100,50,"   Bank Management Program ");
-    outtextxy(190,300,"1-Vishnu Nandakumar(12246)");
+    outtextxy(190,300,"1-Vishnu-RV");
 
     getch();
     }
