@@ -1,4 +1,7 @@
-MY First Github Commit
+#MY First Github Commit
+
+## Demonstrating Graphics with basic graphics tools
+### Objective is to Check the Complexity of using basic tools for Bigger Projects
 
 This mainly works in turboc++ compiler.
 
